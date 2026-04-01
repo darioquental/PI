@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DEV\\C#\\hoteldormebem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C0DD82-DF6A-4FFF-BADE-A622206EB7C0}|hoteldormebem\\hoteldormebem.csproj|c:\\dev\\c#\\hoteldormebem\\hoteldormebem\\controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C0DD82-DF6A-4FFF-BADE-A622206EB7C0}|hoteldormebem\\hoteldormebem.csproj|solutionrelative:hoteldormebem\\controllers\\hotelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C0DD82-DF6A-4FFF-BADE-A622206EB7C0}|hoteldormebem\\hoteldormebem.csproj|c:\\dev\\c#\\hoteldormebem\\hoteldormebem\\models\\hotelbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C0DD82-DF6A-4FFF-BADE-A622206EB7C0}|hoteldormebem\\hoteldormebem.csproj|solutionrelative:hoteldormebem\\models\\hotelbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C0DD82-DF6A-4FFF-BADE-A622206EB7C0}|hoteldormebem\\hoteldormebem.csproj|c:\\dev\\c#\\hoteldormebem\\hoteldormebem\\data\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C0DD82-DF6A-4FFF-BADE-A622206EB7C0}|hoteldormebem\\hoteldormebem.csproj|solutionrelative:hoteldormebem\\data\\apicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C0DD82-DF6A-4FFF-BADE-A622206EB7C0}|hoteldormebem\\hoteldormebem.csproj|c:\\dev\\c#\\hoteldormebem\\hoteldormebem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7C0DD82-DF6A-4FFF-BADE-A622206EB7C0}|hoteldormebem\\hoteldormebem.csproj|solutionrelative:hoteldormebem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C0DD82-DF6A-4FFF-BADE-A622206EB7C0}|hoteldormebem\\hoteldormebem.csproj|c:\\dev\\c#\\hoteldormebem\\hoteldormebem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7C0DD82-DF6A-4FFF-BADE-A622206EB7C0}|hoteldormebem\\hoteldormebem.csproj|solutionrelative:hoteldormebem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C0DD82-DF6A-4FFF-BADE-A622206EB7C0}|hoteldormebem\\hoteldormebem.csproj|c:\\dev\\c#\\hoteldormebem\\hoteldormebem\\hoteldormebem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C7C0DD82-DF6A-4FFF-BADE-A622206EB7C0}|hoteldormebem\\hoteldormebem.csproj|solutionrelative:hoteldormebem\\hoteldormebem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiContext.cs",
+              "DocumentMoniker": "C:\\DEV\\C#\\hoteldormebem\\hoteldormebem\\Data\\ApiContext.cs",
+              "RelativeDocumentMoniker": "hoteldormebem\\Data\\ApiContext.cs",
+              "ToolTip": "C:\\DEV\\C#\\hoteldormebem\\hoteldormebem\\Data\\ApiContext.cs",
+              "RelativeToolTip": "hoteldormebem\\Data\\ApiContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T08:05:24.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotelBooking.cs",
+              "DocumentMoniker": "C:\\DEV\\C#\\hoteldormebem\\hoteldormebem\\Models\\HotelBooking.cs",
+              "RelativeDocumentMoniker": "hoteldormebem\\Models\\HotelBooking.cs",
+              "ToolTip": "C:\\DEV\\C#\\hoteldormebem\\hoteldormebem\\Models\\HotelBooking.cs",
+              "RelativeToolTip": "hoteldormebem\\Models\\HotelBooking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T07:41:07.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HotelController.cs",
+              "DocumentMoniker": "C:\\DEV\\C#\\hoteldormebem\\hoteldormebem\\Controllers\\HotelController.cs",
+              "RelativeDocumentMoniker": "hoteldormebem\\Controllers\\HotelController.cs",
+              "ToolTip": "C:\\DEV\\C#\\hoteldormebem\\hoteldormebem\\Controllers\\HotelController.cs*",
+              "RelativeToolTip": "hoteldormebem\\Controllers\\HotelController.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T07:28:12.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\DEV\\C#\\hoteldormebem\\hoteldormebem\\Program.cs",
+              "RelativeDocumentMoniker": "hoteldormebem\\Program.cs",
+              "ToolTip": "C:\\DEV\\C#\\hoteldormebem\\hoteldormebem\\Program.cs",
+              "RelativeToolTip": "hoteldormebem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T07:23:21.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\DEV\\C#\\hoteldormebem\\hoteldormebem\\appsettings.json",
+              "RelativeDocumentMoniker": "hoteldormebem\\appsettings.json",
+              "ToolTip": "C:\\DEV\\C#\\hoteldormebem\\hoteldormebem\\appsettings.json",
+              "RelativeToolTip": "hoteldormebem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-01T07:19:12.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "hoteldormebem.csproj",
+              "DocumentMoniker": "C:\\DEV\\C#\\hoteldormebem\\hoteldormebem\\hoteldormebem.csproj",
+              "RelativeDocumentMoniker": "hoteldormebem\\hoteldormebem.csproj",
+              "ToolTip": "C:\\DEV\\C#\\hoteldormebem\\hoteldormebem\\hoteldormebem.csproj",
+              "RelativeToolTip": "hoteldormebem\\hoteldormebem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-01T07:22:22.452Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
