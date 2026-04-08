@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace hoteldormebem.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/")]
     [ApiController]
     public class HotelController : Controller
     {
@@ -16,7 +16,7 @@ namespace hoteldormebem.Controllers
             _context= context;
         }
 
-        [HttpPost("/Criar")]
+        [HttpPost("/CreatEdit")]
         public JsonResult Createdit(HotelBooking Booking)
         {
             if (Booking.Id == 0)
@@ -36,7 +36,7 @@ namespace hoteldormebem.Controllers
             return new JsonResult(Booking);
         }
 
-        [HttpGet("/GetHotel")]
+        [HttpGet("/GetReserva")]
         public JsonResult GetHotel(int id)
         {
             var result = _context.Bookings.Find(id);
